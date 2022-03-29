@@ -1,5 +1,5 @@
 let weather ={
-    apiKey: "b5a713c6c8a30a5bbe8304cbae141a6a",
+    apiKey: " MASUKKAN API KEY-NYA",
     fetchWeather: function(city){
         fetch(
             "https://api.openweathermap.org/data/2.5/weather?q=" +
